@@ -86,3 +86,5 @@ puts "#{ferretname} says #{my_ferret.squeal}, #{parrotname} says #{my_parrot.twe
 puts my_ferret.inspect
 puts my_parrot.inspect
 puts my_chincilla.inspect
+
+puts "I'm adding a line. Git is grrrrrt!"
